@@ -1,0 +1,89 @@
+body {
+background-image: url("../images/mountains1.png");
+
+}
+
+header {
+  border: 15px solid seagreen;
+  height: 100px;
+  width: 550px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  padding: 24px;
+  margin: 20px auto;
+  line-height: 8px;
+  background-color: aliceblue;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#title {
+
+  background-color: rgba(78, 78, 78, 0.562);
+  color: aliceblue;
+  font-weight: 300;
+  padding: 10px;
+  font-size: 16px;
+  
+}
+
+li {
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.directions {
+  font-size: 8px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  
+
+}
+
+ol:last-child {
+  margin-bottom: 20px;
+}
+
+.underscore {
+  border: 15px solid seagreen;
+  height: 100px;
+  width: 550px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding: 24px;
+  margin: 20px auto;
+  background-color: aliceblue;
+  /* float: left; */
+}
+
+.rightGuess {
+  border: 15px solid seagreen;
+  height: 100px;
+  width: 300px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding: 24px;
+  margin: 5px 20px;
+  margin-left: 225px;
+  background-color: aliceblue;
+  float: left;
+}
+
+.wrongGuess {
+  border: 15px solid seagreen;
+  height: 100px;
+  width: 300px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding: 24px;
+  margin: 5px 20px;
+  background-color: aliceblue;
+  float: left;
+}
